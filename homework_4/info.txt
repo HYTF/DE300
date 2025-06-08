@@ -1,0 +1,3 @@
+Group members: Aden Benson, Harrison Gillespie, Linda Liu
+Name of the S3 bucket: benson-gillespie-liu-mwaa
+Name of the MWAA environment: benson-gillespie-liu-v2-mwaa
